@@ -38,4 +38,4 @@ TGC is in general a free compression program available in source code releas. Mo
 #### Developers
 
 The TGC algorithm was invented by Sebastian Deorowicz, Szymon Grabowski, and Agnieszka Danek.
-The implementation is by Agnieszka Danek and Sebastian Deorowicz.
+The implementation is by [Agnieszka Danek](https://github.com/agnieszkadanek) and Sebastian Deorowicz.
