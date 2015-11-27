@@ -1,7 +1,18 @@
-#TGC - **T**housands **G**enome **C**ompressor
+##TGC - **T**housands **G**enome **C**ompressor
 
-###Clone repository
+###Getting Started 
+
+```
+# Clone repository
 git clone https://github.com/refresh-bio/tgc.git
+# Building
+cd tgc
+cd src
+make
+cd ..
+# Repeating experiments described in the publication
+./run -abcdefgijklcd tgc
+```
 
 ###TGC—What is it?
 
