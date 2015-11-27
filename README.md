@@ -1,4 +1,4 @@
-#TGC - *T*housands *G*enome *C*ompressor
+#TGC - **T**housands **G**enome **C**ompressor
 
 ###TGC—What is it?
 
