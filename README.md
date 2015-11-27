@@ -5,12 +5,12 @@
 ```
 # Clone repository
 git clone https://github.com/refresh-bio/tgc.git
-# Building
+# Build 
 cd tgc
 cd src
 make
 cd ..
-# Repeating experiments described in the publication
+# Repeat experiments described in the publication
 ./run -abcdefgijklcd tgc
 ```
 
