@@ -1,5 +1,8 @@
 #TGC - **T**housands **G**enome **C**ompressor
 
+###Clone repository
+git clone https://github.com/refresh-bio/tgc.git
+
 ###TGC—What is it?
 
 Thousands Genome Compressor is a tool to estimate the boundaries of compression ratio for human genome compression. It can be also used as a very effective tool for compression Variant Call Format (VCF) files.
@@ -18,7 +21,7 @@ TGC is in general a free compression program available in source code releas. Mo
 
 ####Publications
 
- + Deorowicz, S., Danek, A., Grabowski, Sz., Genome compression: a novel approach for large collections, Bioinformatics, 2013; 29(20):2572–2578, Abstract.
+ + Deorowicz, S., Danek, A., Grabowski, Sz., Genome compression: a novel approach for large collections, Bioinformatics, 2013; 29(20):2572–2578.
 
 
 #### Developers
