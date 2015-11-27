@@ -28,7 +28,7 @@ We were able to compress the genomes from the 1000GP about 15,500 times. More de
 
 ####Terms of use of TGC
 
-TGC is in general a free compression program available in source code releas. More details can be found out on download page.
+TGC is in general a free compression program available in source code release. 
 
 ####Publications
 
