@@ -32,7 +32,7 @@ TGC is in general a free compression program available in source code releas. Mo
 
 ####Publications
 
- + Deorowicz, S., Danek, A., Grabowski, Sz., Genome compression: a novel approach for large collections, Bioinformatics, 2013; 29(20):2572–2578.
+ + Deorowicz, S., Danek, A., Grabowski, Sz., Genome compression: a novel approach for large collections, [Bioinformatics](http://bioinformatics.oxfordjournals.org/content/29/20/2572), 2013; 29(20):2572–2578.
 
 
 #### Developers
